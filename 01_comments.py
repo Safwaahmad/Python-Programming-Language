@@ -5,3 +5,4 @@ print('''safwan               ahmad''')
 print("""safwan
                 ahmad""")
 print("safwan ahmad")
+print
